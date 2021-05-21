@@ -1,0 +1,32 @@
+.add_items_button{
+    background: #2A3139;
+    display: inline-block;
+    padding: 10px 25px;
+    min-width: 113px;
+    text-align: center;
+    color: #fff;
+    font-size: 13px;
+    font-family: ProximaNovaRegular;
+    line-height: 20px;
+    margin-top: 18px;
+    text-decoration: none;
+}
+
+.add_items_button:hover {
+    opacity: 0.7;
+    text-decoration: none;
+    color:#fff;
+}
+
+.pnoitems{
+    margin: 0;
+    padding: 0;
+    color: #8D9398;
+    font-size: 16px;
+    font-family: ProximaNovaRegular;
+    line-height: 20px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-top: 1px solid #8D9398;
+    border-bottom: 1px solid #8D9398;
+}

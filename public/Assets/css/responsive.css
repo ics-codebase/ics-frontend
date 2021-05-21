@@ -1,0 +1,353 @@
+@media (max-width: 1200px) {
+  .hero .buttons .investments {
+    position: relative;
+    margin-top: 20px; }
+  .hero .buttons a {
+    margin-left: 0;
+    margin-right: 17px;
+    margin-bottom: 25px; } }
+
+@media (max-width: 992px) {
+  .step1_container .tablestep8 .ctable .rowstable .before1:before, .step1_container .tablestep8 .ctable .rowstable .before2:before, .step1_container .tablestep8 .ctable .rowstable .before3:before, .step1_container .tablestep8 .ctable .rowstable .before4:before {
+    right: 67%; }
+  .hero h1 {
+    font-size: 40px;
+    font-family: ProximaNovaSemibold;
+    line-height: normal;
+    margin-top: 30px; }
+  .hero p {
+    margin-top: 15px; }
+  .hero .dline {
+    margin-top: 10px; }
+  .navbar .navbar-nav .nav-link {
+    margin-right: -17px; }
+  .hero {
+    padding-right: 0;
+    padding-left: 0; }
+  .register .col-lg-7, .register .col-lg-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0; }
+  .register .blue_box_btn {
+    display: none; }
+  .manage_your_account .col-lg-7, .manage_your_account .col-lg-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0; }
+  .manage_your_account .blue_box_btn {
+    display: none; }
+  .navbar .formheader {
+    max-width: 287px;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 0; }
+  .navbar-dark .navbar-brand {
+    padding-left: 15px; }
+  .navbar-collapse {
+    flex-basis: auto;
+    flex-grow: inherit; }
+  .navbar-expand-lg > .container, .navbar-expand-lg > .container-fluid, .navbar-expand-lg > .container-lg, .navbar-expand-lg > .container-md, .navbar-expand-lg > .container-sm, .navbar-expand-lg > .container-xl {
+    padding-left: 15px;
+    padding-right: 15px; }
+  .into_00 .desc_half {
+    max-width: 100%;
+    margin-bottom: 20px; }
+  .add_details select {
+    padding-right: 30px; }
+  .step1_container .ctable .rowstable .before1:before, .step1_container .ctable .rowstable .before2:before, .step1_container .ctable .rowstable .before3:before, .step1_container .ctable .rowstable .before4:before {
+    right: 77%; } }
+
+@media (max-width: 772px) {
+  .step1_container .certificats .cer {
+    padding-right: 0; }
+  .step1_container .certificats .cer .score {
+    position: relative;
+    display: block;
+    left: unset;
+    right: unset;
+    top: unset;
+    text-align: left;
+    width: 100%;
+    margin-top: 5px; }
+  .step1_container .certificats .cer .logo {
+    position: relative;
+    display: block;
+    left: unset;
+    right: unset;
+    top: unset;
+    text-align: left;
+    width: 100%;
+    margin-top: 5px;
+    transform: unset; }
+    .step1_container .certificats .cer .logo img {
+      margin: 0; }
+  .step1_container .tablestep8 .ctable .sections .harmrow p {
+    max-width: 100px; }
+  .step1_container .ctable .sections .harmrow p, .step1_container .ctable .sections .impactrow p, .step1_container .ctable .sections .nth3 .tit p, .step1_container .ctable .sections .nth2 .tit p, .step1_container .ctable .sections .first p {
+    font-size: 11px;
+    font-family: ProximaNovaRegular;
+    line-height: 16px;
+    padding-left: 5px;
+    padding-right: 5px; }
+  .step1_container {
+    padding: 0; }
+  .step1_container .checkboxdiv .boxs .container-checkbox {
+    padding-left: 40px;
+    padding-right: 40px; }
+  .step1_container .checkboxdiv .boxs .checkmark {
+    left: 13px; }
+  .step1_container .checkboxdiv .boxs .ifyesdiv {
+    padding-left: 25px;
+    padding-right: 25px; }
+  .add_details .onhalf .col-6:first-child, .add_details .onhalf .col-6:last-child {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px; }
+  .add_details {
+    padding-left: 0;
+    padding-right: 0; }
+  .additempopup .boxcont .forscroll .lablechecked .ifyesdiv {
+    padding-left: 15px;
+    padding-right: 15px; }
+  .additempopup .boxcont {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 65px; }
+  .additempopup .buttonsbtn {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px; }
+  .additempopup .boxcont .forscroll {
+    max-height: unset; }
+  .additempopup .cross {
+    right: 15px;
+    top: 15px; }
+  .bulkuploadcss .boxcont {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 65px; }
+  .bulkuploadcss .buttonsbtn {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px; }
+  .bulkuploadcss .boxcont .forscroll {
+    max-height: unset; }
+  .bulkuploadcss .cross {
+    right: 15px;
+    top: 15px; }
+  .manage_organisation_information .radiodiv .ifyes .addform .itemadded .rights, .step1_container .borderbox .addform .itemadded .rights {
+    position: relative;
+    right: auto;
+    display: block; }
+  .manage_organisation_information .radiodiv .ifyes .addform .itemadded .rights .score, .step1_container .borderbox .addform .itemadded .rights .score {
+    position: relative;
+    right: auto;
+    top: auto;
+    margin-bottom: 5px;
+    display: inline-block; }
+  .manage_organisation_information .radiodiv .ifyes .addform .itemadded, .step1_container .borderbox .addform .itemadded .itemadded {
+    padding-bottom: 15px; }
+  .manage_organisation_information .radiodiv .ifyes .addform .scoreadded .rights, .step1_container .borderbox .addform .scoreadded .rights {
+    top: auto;
+    margin-top: 7px; }
+  .manage_organisation_information .radiodiv .ifyes .addform .itemadded .rights a, .step1_container .borderbox .addform .itemadded .rights a {
+    min-width: auto;
+    display: block;
+    text-align: left; }
+  .step1_container .radiodiv .ifyes .addform .itemadded .rights, .step1_container .borderbox .addform .itemadded .rights {
+    position: relative;
+    right: auto;
+    display: block; }
+  .step1_container .radiodiv .ifyes .addform .itemadded .rights .score, .step1_container .borderbox .addform .itemadded .rights .score {
+    position: relative;
+    right: auto;
+    top: auto;
+    margin-bottom: 5px;
+    display: inline-block; }
+  .step1_container .radiodiv .ifyes .addform .itemadded {
+    padding-bottom: 15px; }
+  .step1_container .radiodiv .ifyes .addform .scoreadded .rights, .step1_container .borderbox .addform .itemadded .rights {
+    top: auto;
+    margin-top: 7px; }
+  .step1_container .radiodiv .ifyes .addform .itemadded .rights a, .step1_container .borderbox .addform .itemadded .rights a {
+    min-width: auto;
+    display: block;
+    text-align: left; }
+  .step1_container .borderbox .addform .itemadded .rights {
+    overflow: hidden; }
+  .step1_container .borderbox h2 a {
+    left: 18px;
+    top: -18px;
+    right: unset; }
+  .manage_organisation_information .like_tbl .rowp .sec_b_side:before {
+    content: 'LAST CLASSIFIED';
+    position: absolute;
+    left: -120px;
+    top: 0px;
+    font-size: 12px; }
+  .manage_organisation_information .like_tbl .buttons .abtn {
+    margin-bottom: 20px; }
+  .manage_organisation_information .like_tbl .rowp .actionspan:before {
+    content: 'ACTION';
+    position: absolute;
+    left: -120px;
+    top: 7px;
+    font-size: 12px; }
+  .manage_organisation_information .like_tbl .rowp:before {
+    content: 'NAME';
+    position: absolute;
+    left: 0px;
+    top: 7px;
+    font-size: 12px; }
+  .manage_organisation_information .like_tbl .rowp .actionspan .justlink {
+    text-align: left; }
+  .manage_organisation_information .like_tbl .rowp .actionspan {
+    display: block;
+    position: relative;
+    right: auto;
+    top: auto;
+    text-align: center;
+    margin-top: 7px; }
+  .manage_organisation_information .like_tbl .rowp .sec_b_side {
+    display: block;
+    position: relative;
+    right: auto;
+    top: auto;
+    text-align: left;
+    margin-top: 13px;
+    line-height: 32px; }
+  .manage_organisation_information .like_tbl .rowp {
+    padding-right: 15px;
+    padding-left: 120px;
+    line-height: normal; }
+  .manage_organisation_information .like_tbl .firston {
+    display: none; }
+  .manage_organisation_information .radiodiv .ifyes {
+    padding-left: 10px;
+    padding-right: 10px; }
+  .step1_container .radiodiv .ifyes {
+    padding-left: 10px;
+    padding-right: 10px; }
+  .workspace {
+    padding: 0; }
+  .workspace .wrapper .box .paddigndiv h1 {
+    font-size: 30px; }
+  .into_00 h1 {
+    font-size: 30px; }
+  .into_00 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 25px; }
+  .into_00 .steps .step .no {
+    width: 50px; }
+  .into_00 .steps .step {
+    padding: 25px 25px 25px 50px; }
+  .navbar-dark .navbar-brand {
+    padding-left: 0; }
+  .navbar .formheader button {
+    border: none;
+    position: absolute;
+    right: 0;
+    top: 27px;
+    background: #2A3139; }
+  .navbar .formheader {
+    max-width: 147px;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 0; }
+  .footer {
+    min-height: auto;
+    background: #2a3139;
+    padding-bottom: 15px; }
+  .footer .container {
+    padding: 0; }
+  .footer .logo {
+    display: block;
+    margin: auto;
+    padding-top: 70px;
+    margin-bottom: 30px; }
+  .footer .rightdesc {
+    position: relative;
+    padding: 20px;
+    min-height: auto;
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    max-width: 100%;
+    text-align: center; }
+    .footer .rightdesc img {
+      display: block;
+      margin: auto;
+      margin-bottom: 30px; }
+  .navbar .navbar-nav .nav-link {
+    margin-right: -15px; } }
+
+@media (max-width: 650px) {
+  .step1_container .finishedline .grayline .dot .text {
+    display: none; }
+  .step1_container .finishedline {
+    padding: 20px 25px 20px 25px; } }
+
+@media (max-width: 500px) {
+  .step1_container .buttonsbtn .leftside {
+    padding-right: 3px; }
+  .step1_container .buttonsbtn .rightside {
+    padding-left: 3px; }
+  .before_we_start .steps .step .no {
+    width: auto;
+    position: relative;
+    display: block;
+    text-align: left;
+    left: auto;
+    right: auto;
+    top: auto;
+    height: auto; }
+  .before_we_start .steps .step .no img {
+    width: auto;
+    position: relative;
+    display: block;
+    text-align: left;
+    left: auto;
+    right: auto;
+    top: auto;
+    margin-left: unset;
+    margin-right: unset;
+    height: unset;
+    transform: unset;
+    margin-bottom: 5px; }
+  .before_we_start .btnright {
+    text-align: left; }
+  .before_we_start .steps .step {
+    padding: 15px; }
+  .additempopup .buttonsbtn .leftside, .add_details .buttonsbtn .leftside {
+    padding-right: 3px; }
+  .additempopup .buttonsbtn .rightside, .add_details .buttonsbtn .rightside {
+    padding-left: 3px; }
+  .additempopup .buttonsbtn .rightside button span, .add_details .buttonsbtn .rightside button span {
+    padding: 10px 0; }
+  .bulkuploadcss .buttonsbtn .leftside {
+    padding-right: 3px; }
+  .bulkuploadcss .buttonsbtn .rightside {
+    padding-left: 3px; }
+  .bulkuploadcss .buttonsbtn .rightside button span {
+    padding: 10px 0; }
+  .register .pofinput span {
+    display: block;
+    position: relative; }
+  .manage_your_account .pofinput span {
+    display: block;
+    position: relative; }
+  .navbar .dropdown-toggle {
+    min-width: 170px; }
+  .navbar .navbar-nav .dropdown-menu {
+    width: 170px; }
+  .navbar .dropdown-item {
+    padding: 16px 9px; }
+  .manage_your_account .onhalf .col-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-right: 15px !important;
+    padding-left: 15px !important; } }
