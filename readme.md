@@ -6,6 +6,7 @@ The IMP+ACT Classification System (ICS) is a free self-assessment and reporting 
 As of May 2021, the IP and Code for the ICS has become available on Github (MIT licence) to enable investment practitioners and data providers to seamlessly integrate and multiplicate the classification process into their own solutions.
 
 
+-----------
 
 Copyright 2021 MP+ACT Alliance
 
